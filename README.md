@@ -2,7 +2,7 @@ This is the repository to contain the code for the small proxy that I wrote for 
 
 http://parsiya.net/blog/2015-10-19-proxying-hipchat-part-3-ssl-added-and-removed-here/
 
-Related blogs:
+Related blogs:  
 http://parsiya.net/blog/2015-10-08-hipchat-part-1-where-did-the-traffic-go/
 
 
